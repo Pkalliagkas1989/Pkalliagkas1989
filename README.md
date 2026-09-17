@@ -25,7 +25,7 @@ Full-stack forum work covering authentication, sessions, posts, comments, reacti
 
 Facebook-style social platform with profiles, follow relationships, privacy-aware posts, groups, events, notifications, and real-time chat. This is an original team repository owned by EnTechGR.
 
-### [RT Ray Tracer](https://platform.zone01.gr/git/pkalliag/RT)
+### [RT Ray Tracer](https://github.com/Pkalliagkas1989/rt-ray-tracer)
 
 **Rust · Cargo · Algorithms · Geometry**
 
@@ -55,4 +55,3 @@ QR-based workout-management application with an admin workout builder, public mo
 - [GitHub repositories](https://github.com/Pkalliagkas1989?tab=repositories)
 - [Zone01/Gitea profile](https://platform.zone01.gr/git/pkalliag)
 - [LinkedIn](https://www.linkedin.com/in/panagiotis-kalliagkas)
-
