@@ -10,7 +10,7 @@ I bring an operations and maritime-services background to software engineering, 
 - **Backend and data:** Go HTTP services, REST APIs, WebSockets, GraphQL, SQLite, PostgreSQL, Prisma, authentication, and migrations
 - **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS, DOM-based applications, and SVG data visualisation
 - **Algorithms and graphics:** Ray tracing, vector mathematics, collision detection, image rendering, and simulation logic
-- **Testing and delivery:** Git, GitHub, Docker, Playwright, pytest, and unit, integration, and end-to-end testing; currently specialising in DevOps
+- **Testing and delivery:** Git, GitHub, Docker, pytest, and unit, integration, and end-to-end testing; currently specialising in DevOps
 
 ## Selected work
 
