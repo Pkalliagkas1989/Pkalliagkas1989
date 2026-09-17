@@ -13,7 +13,7 @@ I bring an operations and maritime-services background to software engineering, 
 
 ## Selected work
 
-### [Forum Platform and Advanced Features](https://github.com/Pkalliagkas1989/Notifications)
+### [Forum Platform and Advanced Features](https://github.com/Pkalliagkas1989/forum-platform)
 
 **Go · SQLite · JavaScript · Docker — Team contributor**
 
