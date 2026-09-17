@@ -6,7 +6,7 @@ I bring an operations and maritime-services background to software engineering, 
 
 ## Core technologies
 
-- **Languages:** Go (primary), JavaScript, Rust; working knowledge of TypeScript and Python
+- **Languages:** Go (primary), JavaScript, Rust, Python; working knowledge of TypeScript
 - **Backend and data:** Go HTTP services, REST APIs, WebSockets, GraphQL, SQLite, PostgreSQL, Prisma, authentication, and migrations
 - **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS, DOM-based applications, and SVG data visualisation
 - **Algorithms and graphics:** Ray tracing, vector mathematics, collision detection, image rendering, and simulation logic
@@ -50,6 +50,12 @@ Multiplayer browser game built on a custom mini-framework, with a real-time lobb
 
 QR-based workout-management application with an admin workout builder, public mobile views, external exercise data, migrations, and unit, integration, and end-to-end testing.
 
+### AI Knowledge Assistant
+
+**Python · FastAPI · LangChain · ChromaDB · Ollama — Team Contributor**
+
+Contribute to a backend platform for document ingestion and retrieval, including parsing and OCR, chunking, embeddings, hybrid search, reranking, metadata validation, observability, reliability safeguards, and automated testing.
+
 ## Additional collaboration
 
 - [Chaikin Curve Visualizer](https://github.com/Pkalliagkas1989/chaikin-curve-visualizer) — interactive Rust visualisation of Chaikin's corner-cutting algorithm with animation and unit-tested curve generation.
@@ -60,7 +66,6 @@ QR-based workout-management application with an admin workout builder, public mo
 - [Smart Road](https://github.com/omincron/smart-road) — simulation-core extraction, rendering improvements, dependency cleanup, and audit preparation.
 - [PriceMind MVP](https://github.com/omincron/pricemind-mvp) — backend/frontend integration, setup support, and application troubleshooting.
 - [InvoicePipeline MVP](https://github.com/omincron/InvoicePipeline-mvp) — project structure and technical documentation.
-- Confidential AI-assisted document system — backend ingestion, retrieval quality, validation, reliability, and automated testing; product and client details withheld under NDA.
 
 ## More activity
 
