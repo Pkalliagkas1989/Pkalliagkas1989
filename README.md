@@ -45,6 +45,7 @@ QR-based workout-management application with an admin workout builder, public mo
 
 ## Additional collaboration
 
+- [Chaikin Curve Visualizer](https://github.com/Pkalliagkas1989/chaikin-curve-visualizer) — interactive Rust visualisation of Chaikin's corner-cutting algorithm with animation and unit-tested curve generation.
 - [Smart Road](https://github.com/omincron/smart-road) — simulation-core extraction, rendering improvements, dependency cleanup, and audit preparation.
 - [PriceMind MVP](https://github.com/omincron/pricemind-mvp) — backend/frontend integration, setup support, and application troubleshooting.
 - [InvoicePipeline MVP](https://github.com/omincron/InvoicePipeline-mvp) — project structure and technical documentation.
