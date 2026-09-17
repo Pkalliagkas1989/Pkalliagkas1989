@@ -25,6 +25,12 @@ Full-stack forum work covering authentication, sessions, posts, comments, reacti
 
 Facebook-style social platform with profiles, follow relationships, privacy-aware posts, groups, events, notifications, and real-time chat. This is an original team repository owned by EnTechGR.
 
+### [Zone01 GraphQL Dashboard](https://github.com/Pkalliagkas1989/zone01-graphql-dashboard)
+
+**Go · GraphQL · JavaScript · SVG**
+
+Full-stack learning dashboard with a Go API proxy, token-based authentication, reusable GraphQL queries, and custom SVG visualisations for programme activity and results.
+
 ### [RT Ray Tracer](https://github.com/Pkalliagkas1989/rt-ray-tracer)
 
 **Rust · Cargo · Algorithms · Geometry**
