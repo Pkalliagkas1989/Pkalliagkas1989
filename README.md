@@ -48,6 +48,8 @@ QR-based workout-management application with an admin workout builder, public mo
 - [Chaikin Curve Visualizer](https://github.com/Pkalliagkas1989/chaikin-curve-visualizer) — interactive Rust visualisation of Chaikin's corner-cutting algorithm with animation and unit-tested curve generation.
 - [Road Intersection](https://github.com/Pkalliagkas1989/road-intersection) — Rust and SDL2 traffic simulation with congestion-aware signalling and collision-safe movement.
 - [Rust Learning Lab](https://github.com/Pkalliagkas1989/rust-learning-lab) — structured archive of Rust exercises covering ownership, traits, algorithms, data structures, and testing.
+- [Breakout.EXE](https://github.com/Pkalliagkas1989/breakout-exe) — modular JavaScript game with level progression, boss logic, spatial collision indexing, and custom maps.
+- [Superhero Dashboard](https://github.com/Pkalliagkas1989/superhero-dashboard) — API-driven JavaScript dashboard with nested filtering, sorting, pagination, and responsive views.
 - [Smart Road](https://github.com/omincron/smart-road) — simulation-core extraction, rendering improvements, dependency cleanup, and audit preparation.
 - [PriceMind MVP](https://github.com/omincron/pricemind-mvp) — backend/frontend integration, setup support, and application troubleshooting.
 - [InvoicePipeline MVP](https://github.com/omincron/InvoicePipeline-mvp) — project structure and technical documentation.
