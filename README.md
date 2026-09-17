@@ -6,24 +6,25 @@ I bring an operations and maritime-services background to software engineering, 
 
 ## Core technologies
 
-- **Languages:** Go, JavaScript, Rust, SQL; working knowledge of TypeScript and Python
-- **Backend and data:** HTTP/REST APIs, WebSockets, SQLite, PostgreSQL, authentication, sessions, and migrations
-- **Frontend:** JavaScript, HTML, CSS, DOM-based applications, Next.js
-- **Engineering:** Git, Docker, Docker Compose, automated testing, Playwright, CI/CD and DevOps practices
+- **Languages:** Go (primary), JavaScript, Rust; working knowledge of TypeScript and Python
+- **Backend and data:** Go HTTP services, REST APIs, WebSockets, GraphQL, SQLite, PostgreSQL, Prisma, authentication, and migrations
+- **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS, DOM-based applications, and SVG data visualisation
+- **Algorithms and graphics:** Ray tracing, vector mathematics, collision detection, image rendering, and simulation logic
+- **Testing and delivery:** Git, GitHub, Docker, Playwright, pytest, and unit, integration, and end-to-end testing; currently specialising in DevOps
 
 ## Selected work
 
 ### [Forum Platform and Advanced Features](https://github.com/Pkalliagkas1989/forum-platform)
 
-**Go · SQLite · JavaScript · Docker — Team contributor**
+**Go · SQLite · JavaScript · Docker — Team Contributor**
 
 Full-stack forum work covering authentication, sessions, posts, comments, reactions, image uploads, notification flows, unread-state interactions, database changes, CSRF fixes, owner controls, and user-activity views.
 
 ### [Social Network](https://github.com/EnTechGR/social-network)
 
-**Go · JavaScript/TypeScript · SQLite · WebSockets · Docker — Team contributor**
+**Go · TypeScript · Next.js · SQLite · WebSockets · Docker — Team Contributor**
 
-Facebook-style social platform with profiles, follow relationships, privacy-aware posts, groups, events, notifications, and real-time chat. This is an original team repository owned by EnTechGR.
+Contributed across the Go backend, database migrations, and Next.js frontend of a social platform with profiles, follow relationships, privacy-aware posts, groups, events, notifications, and real-time chat. This is the original team repository owned by EnTechGR.
 
 ### [Zone01 GraphQL Dashboard](https://github.com/Pkalliagkas1989/zone01-graphql-dashboard)
 
@@ -33,9 +34,9 @@ Full-stack learning dashboard with a Go API proxy, token-based authentication, r
 
 ### [RT Ray Tracer](https://github.com/Pkalliagkas1989/rt-ray-tracer)
 
-**Rust · Cargo · Algorithms · Geometry**
+**Rust · eframe/egui · Ray Tracing · Linear Algebra — Team Leader**
 
-Ray tracer for configurable 3D scenes, camera positioning, lighting, shadows, geometric primitives, PPM output, and unit-tested mathematical and collision logic.
+Led the implementation and codebase structure for a ray tracer with configurable 3D scenes, camera controls, lighting, shadows, geometric primitives, PPM output, an optional interactive GUI, and tested mathematical and intersection logic.
 
 ### [Bomberman DOM](https://github.com/Pkalliagkas1989/bomberman-dom)
 
