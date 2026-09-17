@@ -46,6 +46,8 @@ QR-based workout-management application with an admin workout builder, public mo
 ## Additional collaboration
 
 - [Chaikin Curve Visualizer](https://github.com/Pkalliagkas1989/chaikin-curve-visualizer) — interactive Rust visualisation of Chaikin's corner-cutting algorithm with animation and unit-tested curve generation.
+- [Road Intersection](https://github.com/Pkalliagkas1989/road-intersection) — Rust and SDL2 traffic simulation with congestion-aware signalling and collision-safe movement.
+- [Rust Learning Lab](https://github.com/Pkalliagkas1989/rust-learning-lab) — structured archive of Rust exercises covering ownership, traits, algorithms, data structures, and testing.
 - [Smart Road](https://github.com/omincron/smart-road) — simulation-core extraction, rendering improvements, dependency cleanup, and audit preparation.
 - [PriceMind MVP](https://github.com/omincron/pricemind-mvp) — backend/frontend integration, setup support, and application troubleshooting.
 - [InvoicePipeline MVP](https://github.com/omincron/InvoicePipeline-mvp) — project structure and technical documentation.
@@ -54,5 +56,4 @@ QR-based workout-management application with an admin workout builder, public mo
 ## More activity
 
 - [GitHub repositories](https://github.com/Pkalliagkas1989?tab=repositories)
-- [Zone01/Gitea profile](https://platform.zone01.gr/git/pkalliag)
 - [LinkedIn](https://www.linkedin.com/in/panagiotis-kalliagkas)
